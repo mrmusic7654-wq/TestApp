@@ -1,0 +1,10 @@
+*.class
+*.log
+*.pyc
+*.tmp
+.gradle/
+.idea/
+build/
+app/build/
+.DS_Store
+local.properties
